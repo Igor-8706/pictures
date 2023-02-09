@@ -639,6 +639,7 @@ h4 {
 .portfolio-wrapper {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .portfolio-block {
   width: 20%;
@@ -1425,7 +1426,7 @@ h4 {
     margin: 2rem 0 3rem 0;
   }
   .portfolio-wrapper {
-    justify-content: space-around;
+    justify-content: center;
   }
   .portfolio-block {
     width: auto;
